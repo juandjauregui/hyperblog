@@ -6,3 +6,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 [**Excelente curso**](https://twitter.com/juandjauregui).
 
 > Colombia 2023
+
+
+* creado por Juan David Jauregui
